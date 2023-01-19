@@ -1,6 +1,16 @@
-Write a constructor to create a Huffman prefix code for a given byte array and methods to encode and decode the data. The code must be optimal and decoding must restore the original array. Do not forget to test the byte array of length one.
+Write a constructor to create a Huffman prefix code for a given byte array and
+ methods to encode and decode the data. The code must be optimal and decoding
+ must restore the original array.
+ Do not forget to test the byte array of length one.
 Example API is at: https://enos.itcollege.ee/~japoia/algoritmid/kodeerimisyl.html 
+If any sources are used provide the references.
 
-Koostada meetodid Huffmani prefikskoodi loomiseks etteantud baitmassiivi põhjal (konstruktorina), selle baitmassiivi kodeerimiseks ning kodeeritud massiivi dekodeerimiseks. Kontrollitakse koodi optimaalsust ning kodeeriva ja dekodeeriva meetodi kooskõlalisust. Kodeeritav massiiv võib koosneda ka ühestainsast baidist (testige see juhtum eraldi).
+
+Koostada meetodid Huffmani prefikskoodi loomiseks etteantud baitmassiivi põhjal
+ (konstruktorina), selle baitmassiivi kodeerimiseks ning kodeeritud massiivi
+ dekodeerimiseks. Kontrollitakse koodi optimaalsust ning kodeeriva ja dekodeeriva
+ meetodi kooskõlalisust. Kodeeritav massiiv võib koosneda ka ühestainsast baidist
+ (testige see juhtum eraldi).
 API näidise leiate: https://enos.itcollege.ee/~japoia/algoritmid/kodeerimisyl.html
+Allikad tuleb viidata.
 
